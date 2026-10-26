@@ -1,0 +1,7 @@
+# Diwawin
+
+> Diwawin is an online gaming website offering a variety of games for entertainment. The site is available at diwawin.space.
+
+## Main Pages
+
+- [Home](https://diwawin.space/): Main page of Diwawin
